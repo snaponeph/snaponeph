@@ -1,4 +1,4 @@
-[![@SnapOneOfficial]([[https://raw.githubusercontent.com/carlcastanas/carlcastanas/main/assets/1.gif](https://i.imgur.com/MCC7wAc.jpg)](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/321958484_1125565644827018_7430286825330300301_n.jpg))](https://facebook.com/SnapOneOfficial)
+[![@SnapOneOfficial](https://i.imgur.com/MCC7wAc.jpg)](https://facebook.com/SnapOneOfficial)
 ------------------------------------------- 
 ### Socials: 
 <a href="https://m.youtube.com/carlcastanas"><img src="https://img.shields.io/badge/SnapOne-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://instagram.com/carlcastanas"><img src="https://img.shields.io/badge/SnapOne-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/SnapOne-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/carlcastanas/"><img src="https://img.shields.io/badge/SnapOne-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
