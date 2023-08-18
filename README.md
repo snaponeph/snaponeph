@@ -9,7 +9,7 @@
 
 ### My Startup Tech Community:
 
-[![Community](https://discordapp.com/api/guilds/1141541452627853312/widget.png?style=banner2)]([https://discord.gg/ZYfWTSusXG](https://discord.gg/2xP47N89Ja)) 
+[![Community](https://discordapp.com/api/guilds/1141541452627853312/widget.png?style=banner2)]([https://discord.gg/2xP47N89Ja](https://discord.gg/2xP47N89Ja)) 
 
 ### Icreatechs:
 <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/carlcastanas/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://instagram.com/carlcastanas"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://m.youtube.com/carlcastanas"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
