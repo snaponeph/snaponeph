@@ -5,7 +5,7 @@
 <br>
 ### How to reach me: 
 <a href="mailto: niprosoft@gmail.com">
-<img src="https://img.shields.io/badge/-cacastanas%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
+<img src="https://img.shields.io/badge/-niprosoft%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 
 ### My Startup Tech Community:
 
