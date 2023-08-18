@@ -1,7 +1,7 @@
 [![@SnapOneOfficial](https://i.imgur.com/MCC7wAc.jpg)](https://facebook.com/SnapOneOfficial)
 ------------------------------------------- 
 ### Socials: 
-<a href="https://m.youtube.com/carlcastanas"><img src="https://img.shields.io/badge/SnapOne-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://instagram.com/carlcastanas"><img src="https://img.shields.io/badge/SnapOne-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/SnapOne-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/carlcastanas/"><img src="https://img.shields.io/badge/SnapOne-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://m.youtube.com/carlcastanas"><img src="https://img.shields.io/badge/SnapOne-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://instagram.com/carlcastanas"><img src="https://img.shields.io/badge/SnapOne-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/christian-louie-corpin-723962288/"><img src="https://img.shields.io/badge/SnapOne-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/carlcastanas/"><img src="https://img.shields.io/badge/SnapOne-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <br>
 ### How to reach me: 
 <a href="mailto: niprosoft@gmail.com">
